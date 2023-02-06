@@ -1,0 +1,3 @@
+[submodule "submodule-repo-folder"]
+	path = submodule-repo-folder
+	url = https://github.com/oshafran/submodule-repo
