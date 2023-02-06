@@ -1,3 +1,6 @@
 [submodule "submodule-repo-folder"]
 	path = submodule-repo-folder
 	url = https://github.com/oshafran/submodule-repo
+[submodule "common-repo"]
+	path = common-repo
+	url = git@github.com:oshafran/submodule-repo.git
